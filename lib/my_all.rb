@@ -11,7 +11,8 @@ def my_all?(collection)
     
   end
   
-  ifblock_return_vakues.include?
+  if
+    block_return_vakues.include?
     (false)
       false
     else
