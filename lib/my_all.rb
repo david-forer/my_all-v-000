@@ -12,7 +12,7 @@ def my_all?(collection)
   end
   
   if
-    block_return_vakues.include?
+    block_return_values.include?
     (false)
       false
     else
