@@ -8,9 +8,8 @@ def my_all?(collection)
   collection.length
     block_return_values <<
   yield(collection[i])
-    i += 1  
-    
-  end
+    i = i + 1  
+    end
   
   if
     block_return_values.include?
